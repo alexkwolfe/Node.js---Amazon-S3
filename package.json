@@ -18,8 +18,8 @@
 	"test" : "test.js" 
   }
 , "dependencies" : { 
-	"mime"  : ">=1.0.0",
-    "nodeunit"   : ">=0.1.0"
+	"mime"	: ">=1.0.0",
+	"nodeunit"	 : ">=0.1.0"
   }
 , "licenses" : []
 }
